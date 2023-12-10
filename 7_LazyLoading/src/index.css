@@ -1,0 +1,14 @@
+#container{
+    background: lightcyan;
+    color: brown;
+    font-style: italic;
+    font-size: larger;
+}
+
+ul li{
+    margin-left: 15px;
+    font-style: normal;
+}
+a:link{
+    text-decoration: none;
+}
