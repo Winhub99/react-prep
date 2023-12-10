@@ -12,3 +12,13 @@ ul li{
 a:link{
     text-decoration: none;
 }
+
+.cat{
+    width: 250px;
+    margin: 5px;
+}
+.cat img{
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+}

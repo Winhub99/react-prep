@@ -1,0 +1,38 @@
+body{
+    background: burlywood;
+}
+
+.calculator{
+    background: #b3cccc;
+    width: 550px;
+    margin: auto;
+    border: 2px solid red;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    margin: auto;
+}
+
+.input-box{
+    margin: 5px;
+    padding: 5px;
+}
+
+.buttons{
+    margin-top: 5px;
+    text-align: center;        
+}
+
+.button{
+    margin: 5px 10px;
+    padding: 5px 15px;
+    border: 2px solid seagreen;
+    background-color: yellowgreen;
+    border-radius: 10%;
+    cursor: pointer;
+}
